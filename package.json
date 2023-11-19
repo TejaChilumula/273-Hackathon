@@ -1,0 +1,14 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "This is an Prompt for thr budget of INDIA over the years using LLMs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
